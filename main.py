@@ -1,4 +1,4 @@
-# Mistyped lyricsof Journey - Don't Stop Believin' assigned to variable journey
+# Mistyped lyrics of Journey - Don't Stop Believin' assigned to variable journey
 journey = """Just a small tone girl
 Leaving in a lonely whirl
 She took the midnight tray going anywhere
